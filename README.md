@@ -44,5 +44,5 @@ I am passionate about SQL and programming in C#. I love creating queries, optimi
 </center>
 
 ---
-<a href="https://skillicons.dev" title="skills">Skill icons from skillicons.dev</a>
+<a href="https://skillicons.dev" title="skills">Skill icons from skillicons.dev</a> <br>
 <a href="https://icons8.com/icon/set/flags/fluency" title="flags">Flag icons from icons8.com</a>

@@ -25,7 +25,7 @@ I am passionate about SQL and programming in C#. I love creating queries, optimi
 
 <p float="left">
   <img title="HTML" src="./images/icons/html.png" width="48"/>
-  <img title="CSSL" src="./images/icons/css.png" width="48"/>
+  <img title="CSS" src="./images/icons/css.png" width="48"/>
   <img title="C#" src="./images/icons/cs.png" width="48"/>
   <img title="MySQL" src="./images/icons/mysql.png" width="48"/>
   <img title="Microsoft Server SQL" src="./images/icons/mssql.png" width="48"/>

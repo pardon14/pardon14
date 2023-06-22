@@ -49,6 +49,8 @@ Hobby: automotive, music production and IT technology
   <img title="Visual Studio" src="./images/icons/visualstudio.png" width="48"/>
   <img title="Visual Studio Code" src="./images/icons/vscode.png" width="48"/>
   <img title="Unity" src="./images/icons/unity.png" width="48"/>
+  <img title="Tableau" src="./images/icons/tableau.png" width="48"/>
+  <img title="Power BI" src="./images/icons/powerbi.png" width="48"/>
   <img title="FL Studio" src="./images/icons/flstudio.png" width="48"/>
 </p>
 

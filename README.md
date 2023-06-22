@@ -39,8 +39,6 @@ I am passionate about SQL and programming in C#. I love creating queries, optimi
   <img title="UK" src="./images/icons/uk.png" width="48"/>
 </p>
 
-</center>
-
 ---
 #### I can use...
 
@@ -51,6 +49,9 @@ I am passionate about SQL and programming in C#. I love creating queries, optimi
   <img title="Unity" src="./images/icons/unity.png" width="48"/>
   <img title="FL Studio" src="./images/icons/flstudio.png" width="48"/>
 </p>
+
+</center>
+
 ---
 <a href="https://skillicons.dev" title="skills">Skill icons from skillicons.dev</a> <br>
 <a href="https://icons8.com/icon/set/flags/fluency" title="flags">Flag icons from icons8.com</a>

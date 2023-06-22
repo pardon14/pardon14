@@ -32,19 +32,16 @@ I am passionate about SQL and programming in C#. I love creating queries, optimi
   <img title="Microsoft Server SQL" src="./images/icons/mssql.png" width="48"/>
   
 </p>
+
+
+---
+#### I can speak in..
+<p float="left">
+  <img title="PL" src="./images/icons/pl.png" width="48"/>
+  <img title="UK" src="./images/icons/uk.png" width="48"/>
+</p>
+
 </center>
 
-<!--
-**pardon14/pardon14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<a href="https://icons8.com/icon/set/flags/fluency" title="flags">Flag icons from icons8.com</a>

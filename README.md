@@ -19,6 +19,8 @@ I am passionate about SQL and programming in C#. I love creating queries, optimi
 
 Hobby: automotive, music production and IT technology
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pardon14&label=Profile%20views&color=f1f500&style=plastic" alt="pardon14" /> </p>
+
 ---
 
 <center>

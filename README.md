@@ -33,6 +33,8 @@ Hobby: automotive, music production and IT technology
   <img title="C#" src="./images/icons/cs.png" width="48"/>
   <img title="MySQL" src="./images/icons/mysql.png" width="48"/>
   <img title="Microsoft Server SQL" src="./images/icons/mssql.png" width="48"/>
+  <img title="Flutter" src="./images/icons/flutter.svg" width="48"/>
+  
 </p>
 
 ---

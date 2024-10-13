@@ -34,6 +34,8 @@ Hobby: automotive, music production and IT technology
   <img title="MySQL" src="./images/icons/mysql.png" width="48"/>
   <img title="Microsoft Server SQL" src="./images/icons/mssql.png" width="48"/>
   <img title="Flutter" src="./images/icons/flutter.svg" width="48"/>
+  <img title="Dart" src="./images/icons/dart.svg" width="48"/>
+  <img title="NodeJS" src="./images/icons/nodejs.svg" width="48"/>
   
 </p>
 
@@ -56,6 +58,7 @@ Hobby: automotive, music production and IT technology
   <img title="Tableau" src="./images/icons/tableau.png" width="48"/>
   <img title="Power BI" src="./images/icons/powerbi.png" width="48"/>
   <img title="FL Studio" src="./images/icons/flstudio.png" width="48"/>
+  <img title="Arduino" src="./images/icons/arduino.svg" width="48"/>
 </p>
 
 </center>
